@@ -2,6 +2,7 @@
 - 👀 I’m interested in openpose, GNSS, RTK
 - 🌱 I’m currently learning openpose， python,C++, javascripts
 - 📫 How to reach me twitter or instagram or facebook
+- https://vdo.ninja/v16/?room=NTT0_1a&hash=1383
 - 
 
 <!---
