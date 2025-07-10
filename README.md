@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fermerMask
-- 👀 I’m interested in openpose, GNSS, RTK
-- 🌱 I’m currently learning openpose， python,C++, javascripts
+- 👀 I’m interested in openpose, GNSS, RTK, ROS
+- 🌱 I’m currently learning openpose， python,C++, javascript
 - 📫 How to reach me twitter or instagram or facebook
 - 
 
